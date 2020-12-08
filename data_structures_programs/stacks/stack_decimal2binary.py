@@ -1,7 +1,7 @@
 '''A program to convert decimal number to binary
 eg. 242 to binary
 this done by diviiding number by 2 and keeping the track of remainders
-	number 	divn by 2(quotient) 	remainder
+	number 	         divn by 2(quotient) 	                             remainder
 	242			121						0
 	121			60						1
 	60			30						0
